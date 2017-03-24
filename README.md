@@ -43,6 +43,11 @@ Documentation is in form of five PDF files that cover researching, planning and 
 - [Project specification](docs/3_Specyfikacja_projektu.pdf)
 - [Realization](docs/4_Dokumentacja.pdf)
 
+## Technologies
+
+- [Desktop application](Desktop%20Application/) was written in **Java** and GUI in **JavaFX**
+- [STM32 software](STM32%20Software/) was written in **C** with **HAL** libraries
+
 ## Used libraries
 
 - [BlueCove](http://www.bluecove.org/) | Apache License 2.0
